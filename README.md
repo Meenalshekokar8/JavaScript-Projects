@@ -1,6 +1,6 @@
 # JavaScript-Projects
 
-| Sl No | Name | Netlify Url | Timeline |
+| S No | Name | Netlify Url | Timeline |
 | ----- | ---- | ----------- | -------- |
 | 1 | Weather App | [weather-1website](https://weather-1website.netlify.app/) | August 19 2024 |
 | 2 | Todo List App | [todolist-1website](https://todolist-1website.netlify.app/) | August 20 2024 |
@@ -31,5 +31,5 @@
 | 27 | Cryptocurrency Website App | [simplecryptocurrencywebsite](https://simplecryptocurrencywebsite.netlify.app/) | Sept 14 2024 |
 | 28 | Digital Clock App | [digitalclock-website](https://digitalclock-website.netlify.app/) | Sept 13 2024 |
 | 29 | Drag and Drop App | [draganddrop-website](https://draganddrop-website.netlify.app/) | Sept 09 2024 |
-| 30 | Image Serach Engine App | [imagesearchengine-website](https://imagesearchengine-website.netlify.app/) | Sept 15 2024 |
+| 30 | Image Search Engine App | [imagesearchengine-website](https://imagesearchengine-website.netlify.app/) | Sept 15 2024 |
 | 31 | Portfolio | [validation-form-website](https://portfolio-meenals.netlify.app/) | August 09 2024 |
