@@ -1,4 +1,4 @@
-# JavaScript Project From Basic to Advance
+# Journey to Javascript
 
 I started my JavaScript journey in July 2024; since then, I’ve completed over 30 projects. This has been an exciting and rewarding experience, as I've applied new concepts quickly and gained hands-on experience with JavaScript. Each project presented challenges, helping me solidify my understanding of core principles like variables, loops, functions, and objects. The practical learning from these projects has helped me bridge the gap between theory and real-world application.
 
@@ -6,7 +6,7 @@ Through these projects, I’ve also had the opportunity to dive into more advanc
 
  As I continue learning, I’m excited to explore even more advanced topics like JavaScript frameworks (React, Vue) and server-side development with Node.js. Completing over 30 projects in such a short time has been a great achievement for me, and I look forward to continuing to grow my skills and tackle even more complex challenges in the future.
 
-# Projects
+# Projects Link
 
 | S No | Name | Netlify Url | Timeline |
 | ----- | ---- | ----------- | -------- |
