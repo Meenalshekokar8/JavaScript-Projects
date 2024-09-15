@@ -7,7 +7,7 @@
 | 3 | Quiz App | [quiz-1website](https://quiz-1website.netlify.app/) | August 21 2024 |
 | 4 | Password Generator App | [password-generator-1website](https://password-generator-1website.netlify.app/) | August 21 2024 - August 22 2024 |
 | 5 | Notes App | [notes-appwebsite](https://notes-appwebsite.netlify.app/) | August 24 2024 | 
-| 6 | Age Calculator App | [age-calculator-app-ritam](https://age-calculator-app-ritam.netlify.app/) | 11/07/2023 |
+| 6 | Age Calculator App | [age-calculator-website-app](https://age-calculator-website-app.netlify.app/) | August 24 2024 - August 25 2024 |
 | 7 | Quotes App | [quoteoftheday-website](https://quoteoftheday-website.netlify.app/) | August 25 2024 |
 | 8 | QR Code Generator App | [qrcodegeneratorwebsiteapp](https://qrcodegeneratorwebsiteapp.netlify.app/) | August 26 2024 |
 | 9 | Toast Notification App | [toastnotification-website](https://toastnotification-website.netlify.app/) | August 27 2024 |
@@ -32,4 +32,4 @@
 | 28 | Digital Clock App | [digitalclock-website](https://digitalclock-website.netlify.app/) | Sept 13 2024 |
 | 29 | Drag and Drop App | [draganddrop-website](https://draganddrop-website.netlify.app/) | Sept 09 2024 |
 | 30 | Image Search Engine App | [imagesearchengine-website](https://imagesearchengine-website.netlify.app/) | Sept 15 2024 |
-| 31 | Portfolio | [validation-form-website](https://portfolio-meenals.netlify.app/) | August 09 2024 |
+| 31 | Portfolio | [portfolio-meenals](https://portfolio-meenals.netlify.app/) | August 09 2024 |
