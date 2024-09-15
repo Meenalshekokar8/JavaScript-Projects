@@ -6,7 +6,7 @@ Through these projects, I’ve also had the opportunity to dive into more advanc
 
  As I continue learning, I’m excited to explore even more advanced topics like JavaScript frameworks (React, Vue) and server-side development with Node.js. Completing over 30 projects in such a short time has been a great achievement for me, and I look forward to continuing to grow my skills and tackle even more complex challenges in the future.
 
-# JavaScript-Projects
+# Projects
 
 | S No | Name | Netlify Url | Timeline |
 | ----- | ---- | ----------- | -------- |
